@@ -1,6 +1,6 @@
 name: "Update Cloudflare Dnslink to Website's IPFS CID"
 description: "Create or update Cloudflare domain's TXT record dnslink value to IPFS hosted website's CID"
-author: "Decoo Technologies"
+author: "decooio"
 
 inputs:
   name:
