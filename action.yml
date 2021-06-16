@@ -1,4 +1,4 @@
-name: "Cloudflare Dnslink IPFS CID"
+name: "Update Cloudflare Dnslink to Website's IPFS CID"
 description: "Create or update Cloudflare domain TXT record dnslink value to IPFS hosted website CID"
 author: "gavfu"
 
